@@ -2,7 +2,7 @@
 
 $getal = readline("vul een getal in");
 
-if($getal % 2 == 0){
+if ($getal % 2 == 0) {
     
     echo 'even';
 
